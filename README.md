@@ -4,8 +4,7 @@ Bienvenido a mi perfil de GitHub. Aquí comparto mis proyectos, aprendizajes y e
 
 ## Mis redes
 - [Mi GitHub](https://github.com/FranciscoPerez3)
-- [Mi LinkedIn](https://www.linkedin.com/in/miperfil/)
-- [Mi portfolio](https://portfolio.com)
+- [Mi LinkedIn](https://www.linkedin.com)
 
 ## Mis estadísticas 📊
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=franciscoperez3&show_icons=true&theme=radical)
